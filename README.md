@@ -5,6 +5,6 @@
 - 📫 How to reach me oluwatobiyakub@gmail.com...
 
 <!---
-unusualfaruk/unusualfaruk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+unusualfaruk/unusualfaruk is a ✨growing web developer ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
